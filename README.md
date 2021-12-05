@@ -3,8 +3,8 @@
 
 
 
-###### ANSIBLE COLLECTION
-# tsklabs.wks
+###### ANSIBLE COLLECTION <!-- omit in toc --> 
+# tsklabs.wks <!-- omit in toc --> 
 
 | Status | `EXPERIMENTAL`|
 :--------|:---------------------------------------|
@@ -15,46 +15,46 @@
 
 {{ Features }}
 
-### Bagdes
-{{ Badges }}πππ
+### Bagdes <!-- omit in toc --> 
+{{ Badges }}
 
 <br>
 
-<details><summary><b>Contents</b></summary>
-- [tsklabs.wks](#tsklabswks)
-    - [Bagdes](#bagdes)
-  - [<a name="1"/>01. Overview](#a-name101-overview)
-    - [<a name="01.1"/>Prerequisites](#a-name011prerequisites)
-  - [<a name="2"/>02. Quickstart](#a-name202-quickstart)
-    - [<a name="01.2"/>Install](#a-name012install)
-    - [<a name="01.2"/>Usage](#a-name012usage)
-    - [<a name="01.3"/>Demo](#a-name013demo)
-    - [<a name="01.4"/>Uninstall](#a-name014uninstall)
-  - [<a name="02"/>02. Learning](#a-name0202-learning)
-    - [<a name="02.1"/>How-tos](#a-name021how-tos)
-    - [<a name="02.2"/>Tutorials](#a-name022tutorials)
-    - [<a name="02.3"/>Resources](#a-name023resources)
-  - [<a name="03"/>03. Roadmap](#a-name0303-roadmap)
-  - [<a name="04"/>04. References](#a-name0404-references)
-    - [<a name="04.1"/>Concepts](#a-name041concepts)
-    - [<a name="04.2"/>Motivation](#a-name042motivation)
-    - [<a name="04.3"/>Testing](#a-name043testing)
-  - [<a name="05"/>05. Contributing](#a-name0505-contributing)
-  - [<a name="06"/>06. Feedback & Support](#a-name0606-feedback--support)
-    - [<a name="06.1"/>Feedback](#a-name061feedback)
-    - [<a name="06.2"/>Help](#a-name062help)
-    - [<a name="06.3"/>Sponsors](#a-name063sponsors)
-  - [<a name="07"/>07. Code of Conduct](#a-name0707-code-of-conduct)
-  - [<a name="08"/>08. Acknowledgments](#a-name0808-acknowledgments)
-  - [<a name="09"/>09. Maintainer(s)](#a-name0909-maintainers)
-  - [<a name="00"/>10. License](#a-name0010-license)
-</details>
+## Contents <!-- omit in toc --> 
 
+- [<a name="1"/>01. Overview](#a-name101-overview)
+  - [<a name="01.1"/>Prerequisites](#a-name011prerequisites)
+- [<a name="2"/>02. Quickstart](#a-name202-quickstart)
+  - [<a name="01.2"/>Install](#a-name012install)
+  - [<a name="01.2"/>Usage](#a-name012usage)
+  - [<a name="01.3"/>Demo](#a-name013demo)
+  - [<a name="01.4"/>Uninstall](#a-name014uninstall)
+- [<a name="02"/>02. Learning](#a-name0202-learning)
+  - [<a name="02.1"/>How-tos](#a-name021how-tos)
+  - [<a name="02.2"/>Tutorials](#a-name022tutorials)
+  - [<a name="02.3"/>Resources](#a-name023resources)
+- [<a name="03"/>03. Roadmap](#a-name0303-roadmap)
+- [<a name="04"/>04. References](#a-name0404-references)
+  - [<a name="04.1"/>Concepts](#a-name041concepts)
+  - [<a name="04.2"/>Motivation](#a-name042motivation)
+  - [<a name="04.3"/>Testing](#a-name043testing)
+- [<a name="05"/>05. Contributing](#a-name0505-contributing)
+- [<a name="06"/>06. Feedback & Support](#a-name0606-feedback--support)
+  - [<a name="06.1"/>Feedback](#a-name061feedback)
+  - [<a name="06.2"/>Help](#a-name062help)
+  - [<a name="06.3"/>Sponsors](#a-name063sponsors)
+- [<a name="07"/>07. Code of Conduct](#a-name0707-code-of-conduct)
+- [<a name="08"/>08. Acknowledgments](#a-name0808-acknowledgments)
+- [<a name="09"/>09. Maintainer(s)](#a-name0909-maintainers)
+- [<a name="00"/>10. License](#a-name0010-license)
 
-
+<br>
+<br>
 <br>
 
 ## <a name="1"/>01. Overview
+
+dfdf
 
 ### <a name="01.1"/>Prerequisites
 
@@ -64,6 +64,7 @@
 
 
 ### <a name="01.2"/>Install
+
 Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
 
 ### <a name="01.2"/>Usage
