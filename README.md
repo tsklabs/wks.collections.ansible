@@ -1,15 +1,8 @@
-
 ###### ANSIBLE COLLECTION <!-- omit in toc --> 
 # tsklabs.wks <!-- omit in toc --> 
+![status/exprimental](https://img.shields.io/badge/STATUS-EXPERIMENTAL-%237C3AED?style=flat-square)
 
 
-{{  hero image }}
-
-
-
-
-| Status | `EXPERIMENTAL`|
-:--------|:---------------------------------------|
 
 {{ Description }}
 
@@ -17,8 +10,6 @@
 
 {{ Features }}
 
-### Bagdes <!-- omit in toc --> 
-{{ Badges }}
 
 <br>
 
